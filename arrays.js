@@ -1,0 +1,10 @@
+var superHeroes = [];
+var heroPower = [];
+var allUsers = [];
+superHeroes.push('Spiderman');
+heroPower.push(2);
+allUsers.push({ name: 'John', isActive: false });
+console.log(superHeroes);
+console.log(heroPower);
+console.log(allUsers);
+var customArray = [[]];
